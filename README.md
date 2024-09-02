@@ -42,7 +42,9 @@
 
 |***Year***|***Venue***|***Title***|***Type***|***Link***|
 |----|----|-----|----|----|
-|2020|IEEE|[SCUT-EnsText]()|Real|[Dataset](https://github.com/HCIILAB/SCUT-EnsText)|
+|2019|IEEE|[SCUT-Syn](https://arxiv.org/abs/1812.00723)|Syn|[Dataset](https://github.com/HCIILAB/Scene-Text-Removal)|
+|2020|IEEE|[SCUT-EnsText](https://arxiv.org/abs/1812.00723)|Real|[Dataset](https://github.com/HCIILAB/SCUT-EnsText)|
+|2016|CVPR|[Oxford Synthetic text(SynthText)](https://www.robots.ox.ac.uk/~vgg/data/scenetext/)|Syn|[Dataset](https://github.com/ankush-me/SynthText)|
 
 
 ## Thanks TO
