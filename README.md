@@ -35,7 +35,7 @@
 |2023|TIP|[What is the Real Need for Scene Text Removal? Exploring the Background Integrity and Erasure Exhaustivity Properties](https://ieeexplore.ieee.org/abstract/document/10214243)|[Code](https://github.com/wangyuxin87/PERT)|
 |2024|AAAI|[ViTEraser: Harnessing the Power of Vision Transformers for Scene Text Removal with SegMIM Pretraining](https://arxiv.org/abs/2306.12106)|[Code](https://github.com/shannanyinxiang/ViTEraser)|
 |2024|IEEE|[DeepEraser: Deep Iterative Context Mining for Generic Text Eraser](https://arxiv.org/abs/2402.19108)|[Code](https://github.com/fh2019ustc/DeepEraser)|
-
+|2024|ICML|[UPOCR: Towards Unified Pixel-Level OCR Interface](https://arxiv.org/pdf/2312.02694)|[Code](https://github.com/shannanyinxiang/UPOCR)|
 
 
 # Datasets
